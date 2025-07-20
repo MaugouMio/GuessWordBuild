@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-GuessWord-1.0";
 const contentToCache = [
-    "Build/Web.loader.js",
-    "Build/Web.framework.js",
-    "Build/Web.data",
-    "Build/Web.wasm",
+    "Build/GuessWordBuild.loader.js",
+    "Build/GuessWordBuild.framework.js.unityweb",
+    "Build/GuessWordBuild.data.unityweb",
+    "Build/GuessWordBuild.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
