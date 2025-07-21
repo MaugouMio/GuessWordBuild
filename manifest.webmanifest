@@ -1,8 +1,8 @@
 {
     "name": "GuessWord",
     "short_name": "GuessWord",
-    "start_url": "index.html?fullscreen=true",
-    "display": "fullscreen",
+    "start_url": "index.html",
+    "display": "standalone",
     "background_color": "#231F20",
     "theme_color": "#000",
     "description": "",
