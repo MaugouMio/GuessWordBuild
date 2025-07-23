@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-GuessWord-1.0";
+const cacheName = "MaugouMio-GuessWord-3.0";
 const contentToCache = [
     "Build/GuessWordBuild.loader.js",
     "Build/GuessWordBuild.framework.js.unityweb",
